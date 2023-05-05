@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-demo
+  description: This is a backstage demo proj.
+  tags:
+    - go
+    - website
+spec:
+  type: service
+  lifecycle: production
+  owner: nandish
