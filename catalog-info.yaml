@@ -7,8 +7,8 @@ metadata:
     - go
     - website
   links:
-    - url: http://localhost:8082/BackstageDemo/
-      title: My Dashboard
+    - url: http://localhost:8082/CustomerSpringBootCRUDProj/
+      title: Customer Website
       icon: dashboard
 spec:
   type: service
