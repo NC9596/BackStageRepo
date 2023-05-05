@@ -1,0 +1,25 @@
+{
+  "template": "https://github.com/dharshini226/CruftTemplate-SpringBootMVC.git",
+  "commit": "1410838c55debe64f4993fa72d9a8f071764c304",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "java_version": "17",
+      "entity_name": "Customer",
+      "info": "Give 3 attributes for your entity[Press any key to continue]",
+      "attribute1": "name",
+      "data_type_attribute1": "String",
+      "attribute2": "phNum",
+      "data_type_attribute2": "Long",
+      "attribute3": "email",
+      "data_type_attribute3": "String",
+      "developer_initials": "nc",
+      "server_port_number": "4045",
+      "db_schema_name": "cruft_demo",
+      "db_user_name": "root",
+      "db_user_password": "Softtek@2022",
+      "_template": "https://github.com/dharshini226/CruftTemplate-SpringBootMVC.git"
+    }
+  },
+  "directory": null
+}
